@@ -1,11 +1,11 @@
 # ManageLicensePHP
 
- **Login**
 
-> [!IMPORTANT]
->login: **admin@admin.com** 
-  
-  password: **admin**
+
+> [!IMPORTANT] **Login**
+>login: **admin@admin.com**
+>
+>  password: **admin**
   
 
 **License Manager application is developed in PHP and utilizes the Bootstrap framework to efficiently manage and allocate licenses to employees in businesses and organizations. The aim of this application is to streamline the process of allocating, monitoring, and managing licenses for various software solutions, ensuring compliance with licensing agreements and regulations. Here are the key features and functionalities of this application:**
