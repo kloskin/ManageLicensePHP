@@ -3,8 +3,8 @@
 
 
 > [!IMPORTANT]
-> **Admin Login**__
->login: **admin@admin.com**__
+> **Admin Login** <br />
+>login: **admin@admin.com** <br />
 >  password: **admin**
   
 
